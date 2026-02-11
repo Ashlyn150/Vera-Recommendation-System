@@ -42,12 +42,12 @@ These embeddings are indexed using:
 
 For a given query product:
 
-1.  Retrieve top-K nearest vectors\
-2.  Remove self-matches\
+1.  Retrieve top-K nearest vectors
+2.  Remove self-matches
 3.  Apply business constraints:
     -   Same gender
     -   Optional same category
-    -   Optional stock filter\
+    -   Optional stock filter
 4.  Merge product metadata
 
 ------------------------------------------------------------------------
