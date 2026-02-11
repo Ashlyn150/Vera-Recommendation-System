@@ -70,11 +70,15 @@ To ensure UI consistency:
 -   Stable synthetic pricing
 -   Size selection UI
 -   Top-5 KNN similar items
+-   <img width="2704" height="2028" alt="image" src="https://github.com/user-attachments/assets/e39fe72e-39dd-45e8-ae01-2f2a4c324e73" />
+
 
 ### Simulation Integration
 
 -   Shares same embeddings and product artifacts
 -   Ensures reproducible behaviour across modules
+-   <img width="2038" height="310" alt="image" src="https://github.com/user-attachments/assets/f0847843-fdcf-402a-829b-e14f847fd19f" />
+
 
 ------------------------------------------------------------------------
 
@@ -121,6 +125,7 @@ pip install -r requirements.txt
 cd workflow/Simulation_KNN
 streamlit run Simulation.py
 ```
+
 
 ------------------------------------------------------------------------
 
