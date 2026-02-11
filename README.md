@@ -77,7 +77,8 @@ To ensure UI consistency:
 
 -   Shares same embeddings and product artifacts
 -   Ensures reproducible behaviour across modules
--   <img width="2038" height="310" alt="image" src="https://github.com/user-attachments/assets/f0847843-fdcf-402a-829b-e14f847fd19f" />
+-  <img width="2132" height="3722" alt="image" src="https://github.com/user-attachments/assets/abffcf0d-9324-4ae3-a259-64cf6eaa763e" />
+
 
 
 ------------------------------------------------------------------------
